@@ -1,63 +1,42 @@
 {
   "main": {
-    "name": "Tim Baker",
-    "occupation": "(Your Occupation Here)",
-    "description": "Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "name": "Wiliam Liu",
+    "occupation": "Full-stack Developer",
+    "description": " Currently a Sheridan College Student dedicated in improving user friendly design with profound buisness experience",
     "image": "profilepic.jpg",
-    "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "bio": "2+ years React-based web developer with experiences in business management and sales campaigns on e-Commerce platforms with front-end knowledge such as React library, HTML5, CSS and back-end knowledge such as NodeJs, Express, REST API, Amazon S3, fire base and google API. Currently studying in Sheridan college and looking for internship focusing on modern web development.",
+    "contactmessage": "",
+    "email": "liuwilly4@gmail.com",
+    "phone": "289-259-6430",
     "address": {
-      "street": "(Your Street)",
-      "city": "(Your City)",
-      "state": "(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street": "",
+      "city": "Toronto",
+      "state": "Ontario",
+      "zip": "L6H2T5"
     },
     "website": "http://www.timbakerdev.com",
     "resumedownload": "http://timbakerdev.com",
     "social": [
       {
-        "name": "facebook",
-        "url": "http://facebook.com/tim.baker.906",
-        "className": "fa fa-facebook"
-      },
-      {
-        "name": "twitter",
-        "url": "http://twitter.com",
-        "className": "fa fa-twitter"
-      },
-      {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url": "https://www.linkedin.com/in/williamliucs/",
         "className": "fa fa-linkedin"
       },
       {
-        "name": "instagram",
-        "url": "http://instagram.com/tbaker_x",
-        "className": "fa fa-instagram"
-      },
-      {
         "name": "github",
-        "url": "http://github.com/tbakerx",
+        "url": "https://github.com/palmswill",
         "className": "fa fa-github"
       }
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "Well-Rounded knowledge in Front-End, Back-End ,Supply Chain and Product support.",
     "education": [
       {
-        "school": "University?",
-        "degree": "Masters in Beer tasting",
-        "graduated": "April 2007",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
-      },
-      {
-        "school": "School #1 Maybe College?",
-        "degree": "What did you study 101",
-        "graduated": "March 2003",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "Sheridan College",
+        "degree": "Software Development and Network Engineering - in progress",
+        "graduated": "June 2022",
+        "description": "Relevant Courses : Enterprise Java, Web Programming, Interactive User Design."
       }
     ],
     "work": [

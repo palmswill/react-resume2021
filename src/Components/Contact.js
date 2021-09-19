@@ -34,7 +34,7 @@ class Contact extends Component {
          </div>
 
          <div className="row">
-            <div className="eight columns">
+            {/* <div className="eight columns">
 
                <form action="" method="post" id="contactForm" name="contactForm">
 					<fieldset>
@@ -73,21 +73,22 @@ class Contact extends Component {
                   <i className="fa fa-check"></i>Your message was sent, thank you!<br />
 				   </div>
            </div>
-
+ */}
 
             <aside className="four columns footer-widgets">
                <div className="widget widget_contact">
 
-					   <h4>Address and Phone</h4>
+					   <h4>Contact-information</h4>
 					   <p className="address">
 						   {name}<br />
+                     {email}
 						   {street} <br />
-						   {city}, {state} {zip}<br />
+						   {city} {state} {zip}<br />
 						   <span>{phone}</span>
 					   </p>
 				   </div>
 
-               <div className="widget widget_tweets">
+               {/* <div className="widget widget_tweets">
                   <h4 className="widget-title">Latest Tweets</h4>
                   <ul id="twitter">
                      <li>
@@ -107,7 +108,7 @@ class Contact extends Component {
                         <b><a href="#">3 Days Ago</a></b>
                      </li>
                   </ul>
-		         </div>
+		         </div> */}
             </aside>
       </div>
    </section>
