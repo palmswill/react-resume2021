@@ -23,7 +23,7 @@ class App extends Component {
   }
 
   getResumeData() {
-    fetch("./react-resume2021/resumeData.json")
+    fetch("./resumeData.json")
     .then((res) => res.json())
     .then(function (data) {
       this.setState({ resumeData: data });
