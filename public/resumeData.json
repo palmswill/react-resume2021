@@ -1,10 +1,10 @@
-{
+  {
   "main": {
-    "name": "Wiliam Liu",
-    "occupation": "Front-stack Developer",
+    "name": "William Liu",
+    "occupation": "Front-End Developer",
     "description": " Currently a Sheridan College Student dedicated in improving user friendly design with profound buisness experience",
     "image": "profilepic.jpg",
-    "bio": "2+ years React-based web developer with experiences in business management and sales campaigns on e-Commerce platforms with front-end knowledge such as React library, HTML5, CSS and back-end knowledge such as NodeJs, Express, REST API, Amazon S3, fire base and google API. Currently studying in Sheridan college and looking for internship focusing on modern web development.",
+    "bio": "2+ years React‑based web developer with experiences in business management and sales campaigns on e‑Commerce platforms with front‑end knowledge such as React library, HTML5, CSS3 and back‑end knowledge such as NodeJs, Express REST API, Amazon S3, Firebase and Google API. Currently studying at Sheridan College and looking for an internship focusing on modern web development.",
     "contactmessage": "",
     "email": "liuwilly4@gmail.com",
     "phone": "289-259-6430",
@@ -15,7 +15,7 @@
       "zip": "L6H2T5"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "resumedownload": "https://github.com/palmswill/react-resume2021/blob/gh-pages/William%20Liu%20Resume.pdf",
     "social": [
       {
         "name": "linkedin",
@@ -30,7 +30,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "Well-Rounded knowledge in Front-End, Back-End ,Supply Chain and Product support.",
+    "skillmessage": "Well-Rounded knowledge in both Front-End, Back-End technologies",
     "education": [
       {
         "school": "Sheridan College",
@@ -59,57 +59,54 @@
         "description": "Responsible for communication with the supplier ,improved quality and reduced price to further improve the cost performance of products, also generates and analyze sales across multiple product departments. Accurately predicting customer behaviour, utilize supply chain workflow to its maximum extent."
       },
       {
-        "company": "Tribute Window Coverings",
-        "title": "Smart Home Support management ",
-        "years": "March 2019 - Present",
-        "description": "Provided product support for mechanical products with online instruction videos and product manuals receiving wildly positive feedback and provided technical support including computer configuration and software problem ticket tracking for the company."
-      },
-      {
         "company": "Mini Micro",
         "title": "Warehouse Management /E-Commerce Assistant ",
         "years": "September 2017 - November 2017",
         "description": "Maintained e-Commerce websites including Amazon, eBay. Held sales campaign increasing online visibility and planning of marketing strategies."
       }
     ],
-    "skills": [
+    "skills":  [
       {
-        "name": "React.JS (Router,Redux Toolkit, Context API...)",
-        "level": "90%"
+        "name": "GoogleAPI",
+        "description": " I have used Google APIs such as Google Map API to display target locations and use google sheet API to fetch and display some of the data from customer's google sheet, and uses Google auth for account authentication.",
+        "image": "GoogleAPI.png"
       },
       {
-        "name": "HTML5",
-        "level": "70%"
+        "name": "JavaScript",
+        "description": " It is the main language I have been using as I have been mostly focused on Web development. This is by far my most familiar language in terms of algorithms and methods. ",
+        "image": "Javascript.png"
       },
       {
-        "name": "CSS3",
-        "level": "60%"
+        "name": "React Js",
+        "description": "React is the main library I have been using through out my self-study. The idea of SPA and \" Plugging In \" allow me to simplify heavy loaded websites.I used the library to create the E-Commerce website and all my other projects as well.  ",
+        "image": "react.jpg"
       },
       {
-        "name": "NodeJS",
-        "level": "80%"
+        "name": "Semantic UI",
+        "description": "My to go css library for styling website. I prefer it because React component library is more complete, also the ability to be able to \"swap out\" component.  It is the framework I am most familiar with and can therefore design more quickly than with other.",
+        "image": "SemanticUI.png"
+      },
+
+      {
+        "name": "Node JS",
+        "description": " Node JS is my server side language of choice. I mainly uses it with Express to create Rest APIs for my front-end web applications. So far I have created the APIs for me to connect to the ERP database for my E-Commerce website & Mongodb Atlas.",
+        "image": "node.jpg"
       },
       {
-        "name": "Java ",
-        "level": "50%"
-      },
-      {
-        "name": "Google API",
-        "level": "70%"
+        "name": "Amazon S3",
+        "description": " My main cloud storage for large files such as images and files, it provides built in access policy and easy to use API for me to provide my website with images. It also allow non-tech personnel in my company to more easily manage what they want to put on their website.",
+        "image": "Amazon S3.png"
       },
       {
         "name": "MongoDB Atlas",
-        "level": "40%"
+        "description": "I have used many different database systems and am better educated and experienced with Relational Databases. However, for many applications, the ease of use of MongoDB better suits my needs and it is much more enjoyable to work with.",
+        "image": "mongo.jpg"
       },
       {
-        "name": "Firebase",
-        "level": "60%"
-      },
-      {"name":"Suppy Chain Manangement",
-      "level":"90%"
-      },
-      {"name":"Product Support",
-        "level":"80%"
-        }
+        "name": "Heroku",
+        "description": "I use Heroku as my hosting platform for most of my projects because so far they are all unpaid and their free tier is convenient. I also appreciate its integration with Github for such simple deployment.",
+        "image": "heroku.jpg"
+      }
     ]
   },
   "portfolio": {
