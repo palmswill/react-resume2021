@@ -4,7 +4,7 @@
     "occupation": "Front-End Developer",
     "description": " Currently a Sheridan College Student dedicated in improving user friendly design with profound buisness experience",
     "image": "profilepic.jpg",
-    "bio": "2+ years React‑based web developer with experiences in business management and sales campaigns on e‑Commerce platforms with front‑end knowledge such as React library, HTML5, CSS3 and back‑end knowledge such as NodeJs, Express REST API, Amazon S3, Firebase and Google API. Currently studying at Sheridan College and looking for an internship focusing on modern web development.",
+    "bio": "One year React‑based web developer with experiences in business management and sales campaigns on e‑Commerce platforms. Passionate in designing user‑friendly modern web application that make e‑Commerce interaction easy and interesting for all . Currently in enhancing my skills and knowledge in Light House Lab but also open to full stack, front‑end or back‑end in contract or permanent position.",
     "contactmessage": "",
     "email": "liuwilly4@gmail.com",
     "phone": "289-259-6430",
@@ -14,7 +14,6 @@
       "state": "Ontario",
       "zip": "L6H2T5"
     },
-    "website": "http://www.timbakerdev.com",
     "resumedownload": "https://github.com/palmswill/react-resume2021/blob/gh-pages/William%20Liu%20Resume.pdf",
     "social": [
       {
@@ -33,9 +32,15 @@
     "skillmessage": "Well-Rounded knowledge in both Front-End, Back-End technologies",
     "education": [
       {
+        "school":"Lighthouse Labs",
+        "degree":"Web development Bootcamp",
+        "graduated":"April 2022",
+        "description":"Relevant Courses : React, Node.js, Ruby On Rails , Jest."
+      },
+      {
         "school": "Sheridan College",
         "degree": "Software Development and Network Engineering - in progress",
-        "graduated": "June 2022",
+        "graduated": "",
         "description": "Relevant Courses : Enterprise Java, Web Programming, Interactive User Design."
       }
     ],
@@ -111,6 +116,12 @@
   },
   "portfolio": {
     "projects": [
+        {
+          "title": "Mapocracy",
+          "category": "Mapocracy is a platform created for users to voice and represent themselves through their geographic location. ",
+          "image": "mapocracy.png",
+          "url": "https://mapocracy.herokuapp.com/"
+        },
       {
         "title": "TWC E-Webwsite",
         "category": "A E-commerce website built for Tribute Window Covering cooperatign with their ERP database,Nodejs back end to create RESTAPI",
